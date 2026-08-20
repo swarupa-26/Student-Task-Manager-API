@@ -2,7 +2,7 @@
 
 A simple REST API for managing student tasks with clean code, secure validation, and meaningful automated tests.
 
-- Main Purpose behind building this project is Learning Spec-Driven Development. I have used Spec-Driven Development to 
+- Main Purpose behind building this project is Learning Spec-Driven Development. I have used Spec-Driven Development Approach to 
   build this project using GitHub Speckit Toolkit that helps to put SDD into practice with AI coding Agents. 
 
 
