@@ -1,3 +1,9 @@
+
+Built entirely through Spec-Driven Development (SDD)—where machine-readable markdown specifications act as the single source of truth before any code is generated.
+
+# Overview
+This project does not rely on ad-hoc or "vibe" coding. Instead, every feature, data contract, and architectural boundary is formally defined in structured specification files. AI coding agents and developers use these specs as strict execution and validation gates.
+
 # Student Task Manager
 
 A simple REST API for managing student tasks with clean code, secure validation, and meaningful automated tests.
